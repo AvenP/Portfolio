@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Portfolio/static/js/main.ddd47e44.js",
-    "static/js/787.0149f8a8.chunk.js": "/Portfolio/static/js/787.0149f8a8.chunk.js",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Portfolio/static/css/main.300b160b.css",
+    "main.js": "/Portfolio/static/js/main.bd8e566b.js",
+    "static/media/RecipesNow.png": "/Portfolio/static/media/RecipesNow.4d0c305bd65db6c9a68f.png",
+    "static/media/AvenPearsonResume.pdf": "/Portfolio/static/media/AvenPearsonResume.db19285cf3ac87aed302.pdf",
+    "static/media/WorkDay.png": "/Portfolio/static/media/WorkDay.2b0b0d0ce37b7c135245.png",
+    "static/media/Forecast.png": "/Portfolio/static/media/Forecast.c0c055933eb93c4c8df0.png",
+    "static/media/picpro.jpg": "/Portfolio/static/media/picpro.10de48f0f87fbccdb451.jpg",
+    "static/media/Notes.png": "/Portfolio/static/media/Notes.8f4d81c96ec888c55aad.png",
+    "static/media/TextEditor.png": "/Portfolio/static/media/TextEditor.edf0666a699e716e9b0f.png",
     "index.html": "/Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Portfolio/static/css/main.073c9b0a.css.map",
-    "main.ddd47e44.js.map": "/Portfolio/static/js/main.ddd47e44.js.map",
-    "787.0149f8a8.chunk.js.map": "/Portfolio/static/js/787.0149f8a8.chunk.js.map"
+    "main.300b160b.css.map": "/Portfolio/static/css/main.300b160b.css.map",
+    "main.bd8e566b.js.map": "/Portfolio/static/js/main.bd8e566b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ddd47e44.js"
+    "static/css/main.300b160b.css",
+    "static/js/main.bd8e566b.js"
   ]
 }
