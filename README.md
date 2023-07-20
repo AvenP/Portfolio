@@ -1,3 +1,21 @@
+# React Portfolio
+
+# Summary
+Folder structuring gave me issues with deployment. I had to do create-react-app command again to get everything working properly.
+Also, I had to move files around in the src folders.
+
+# Links
+
+Live Page
+https://avenp.github.io/Portfolio/
+
+Repo Link
+https://github.com/AvenP/Portfolio
+
+
+# Screenshot
+![image](https://github.com/AvenP/Portfolio/assets/123212035/ce484598-55c7-478a-8244-51f1913b13ae)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
