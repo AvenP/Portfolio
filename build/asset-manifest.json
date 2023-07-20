@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1be26431.css",
+    "main.js": "/Portfolio/static/js/main.52eec5ac.js",
+    "static/media/RecipesNow.png": "/Portfolio/static/media/RecipesNow.4d0c305bd65db6c9a68f.png",
+    "static/media/AvenPearsonResume.pdf": "/Portfolio/static/media/AvenPearsonResume.db19285cf3ac87aed302.pdf",
+    "static/media/WorkDay.png": "/Portfolio/static/media/WorkDay.2b0b0d0ce37b7c135245.png",
+    "static/media/Forecast.png": "/Portfolio/static/media/Forecast.c0c055933eb93c4c8df0.png",
+    "static/media/picpro.jpg": "/Portfolio/static/media/picpro.10de48f0f87fbccdb451.jpg",
+    "static/media/TextEditor.png": "/Portfolio/static/media/TextEditor.edf0666a699e716e9b0f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1be26431.css.map": "/Portfolio/static/css/main.1be26431.css.map",
+    "main.52eec5ac.js.map": "/Portfolio/static/js/main.52eec5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1be26431.css",
+    "static/js/main.52eec5ac.js"
+  ]
+}
