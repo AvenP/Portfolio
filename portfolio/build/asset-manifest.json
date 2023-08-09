@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2f96e058.css",
-    "main.js": "/Portfolio/static/js/main.b193248f.js",
+    "main.css": "/Portfolio/static/css/main.300b160b.css",
+    "main.js": "/Portfolio/static/js/main.bd8e566b.js",
     "static/media/RecipesNow.png": "/Portfolio/static/media/RecipesNow.4d0c305bd65db6c9a68f.png",
     "static/media/AvenPearsonResume.pdf": "/Portfolio/static/media/AvenPearsonResume.db19285cf3ac87aed302.pdf",
     "static/media/WorkDay.png": "/Portfolio/static/media/WorkDay.2b0b0d0ce37b7c135245.png",
@@ -10,11 +10,11 @@
     "static/media/Notes.png": "/Portfolio/static/media/Notes.8f4d81c96ec888c55aad.png",
     "static/media/TextEditor.png": "/Portfolio/static/media/TextEditor.edf0666a699e716e9b0f.png",
     "index.html": "/Portfolio/index.html",
-    "main.2f96e058.css.map": "/Portfolio/static/css/main.2f96e058.css.map",
-    "main.b193248f.js.map": "/Portfolio/static/js/main.b193248f.js.map"
+    "main.300b160b.css.map": "/Portfolio/static/css/main.300b160b.css.map",
+    "main.bd8e566b.js.map": "/Portfolio/static/js/main.bd8e566b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f96e058.css",
-    "static/js/main.b193248f.js"
+    "static/css/main.300b160b.css",
+    "static/js/main.bd8e566b.js"
   ]
 }

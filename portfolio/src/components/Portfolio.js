@@ -55,6 +55,14 @@ function Portfolio() {
                 githubLink:
                     "https://github.com/AvenP/note-creator",
               },
+              {
+                title: "Adrenaline",
+                imgSrc: Workout,
+                deployedLink:
+                    "https://adrenaline-project3-6992473446fd.herokuapp.com/",
+                githubLink:
+                    "https://github.com/AvenP/adrenaline",
+              },
             ].map((project, index) => (
                 <div className="col-12 col-md-6 col-lg-4 my-2" key={index}>
                 {/* <h2>{project.title}</h2> */}
